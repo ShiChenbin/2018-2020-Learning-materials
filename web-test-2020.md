@@ -1,5 +1,8 @@
-#web相关题目 2020-6 
-答案 author：yueguang blog：https://www.cnblogs.com/ygbrsf/
+#web相关题目 2020-6
+
+web选择、填空、简答、综合 练习题
+
+author：yueguang blog：https://www.cnblogs.com/ygbrsf/
 
 ## 选择题
 1.下面错误的是（）。  
