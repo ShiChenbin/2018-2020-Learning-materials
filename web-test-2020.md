@@ -1,9 +1,5 @@
-# web相关题目 2020-6
-
-web选择、填空、简答、综合 练习题
-
-author：yueguang blog：https://www.cnblogs.com/ygbrsf/
-
+#web考察课 2020-6 期末考试
+答案 author：yueguang blog：https://www.cnblogs.com/ygbrsf/
 ## 选择题
 1.下面错误的是（）。  
 A 静态网页不需要数据库的支持  
@@ -98,7 +94,7 @@ D \<body>元素
 
 answer  
 填空1：目录名  
-填空2： /文件名  
+填空2： /  
 
 2.CSS中，定位属性position的取值可以为：[填空1],[填空2],[填空3],[填空4]。
 填空1： static  
@@ -109,22 +105,22 @@ answer
 解释：https://www.cnblogs.com/thewaytoace/p/5264436.html  
 
 3.在HTML页面中，当单机对象会触发JavaScript的[填空1]事件。
-填空1： onKeyDow  
+填空1：onclick    
 
 4.如果要获取name为login的表单中的name为username的文本框的值，应采用表达式[填空1]。
-填空1：username=login.username.value   
+填空1：request.getParameter("userName");
 
 5.\<video>标记允许使用多个[填空1]标记来链接不同的视频文件。  
 填空1：<source>  
 
 6.CSS选择器的语法是[填空1]  
 填空1：  
-```
+```html
 <p>
 selector {
         property:value;
       }
-<\p>   
+</p>   
 ```
 
 ## 主观题
@@ -134,7 +130,6 @@ selector {
 （3）如果URL指向静态HTML文档，Web服务器使用HTTP协议把该文档直接送给浏览器。如果HTML文档中嵌入了ASP、PHP或JSP程序，则由Web服务器运行这些程序，把结果送到浏览器。如果Web服务器运行的程序包含对数据库的访问，则服务器将查询指令发送给数据库服务器，对数据库执行查询操作。  
 （4）查询结果由数据库返回Web服务器，再Web服务器将结果数据嵌入页面，并以HTML格式发送给浏览器。  
 （5）浏览器解释HTML文档，在客户端屏幕上展示结果。   
-
 2.简述html文档结构。  
 \<html>
 \<head>
