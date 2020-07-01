@@ -111,7 +111,7 @@ answer
 填空1：request.getParameter("userName");
 
 5.\<video>标记允许使用多个[填空1]标记来链接不同的视频文件。  
-填空1：<source>  
+填空1：\<source>  
 
 6.CSS选择器的语法是[填空1]  
 填空1：  
