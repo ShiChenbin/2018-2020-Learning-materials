@@ -83,7 +83,7 @@ B Document
 C \<html>元素  
 D \<body>元素  
 
-答案：C  
+答案：B  
 解释：     
    DOM中的节点之间的关系  
    父子关系（parent-child）：\<html> 元素作为父级，\<head> 和 \<body> 元素作为子级  
@@ -115,6 +115,7 @@ answer
 
 6.CSS选择器的语法是[填空1]  
 填空1：  
+*{}
 ```html
 <p>
 selector {
